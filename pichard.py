@@ -5,3 +5,5 @@ if var1 == var2:
     print("son iguales!")
 else:
     print("no son iguales!")
+
+print("esto lo escribio franco"):
