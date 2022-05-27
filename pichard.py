@@ -8,4 +8,4 @@ if var1 == var2:
 else:
     print("no son iguales!")
 
-print("esto lo escribio franco"):
+print("esto lo escribio franco")
